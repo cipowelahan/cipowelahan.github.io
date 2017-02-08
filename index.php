@@ -4,6 +4,10 @@
 	<title>Muhammad Afifudin</title>
 </head>
 <body>
-<p>Beluim ada isinya</p>
+<?php
+	for($a=0; $a<3; $a++){
+		echo "<p>Beluim ada isinya</p>";	
+	}
+?>
 </body>
 </html>
