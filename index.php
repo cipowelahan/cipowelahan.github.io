@@ -5,5 +5,8 @@
 </head>
 <body>
 <p>Beluim ada isinya</p>
+<?php
+	echo "hai";
+?>
 </body>
 </html>
